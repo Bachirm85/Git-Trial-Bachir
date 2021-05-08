@@ -15,3 +15,9 @@ Responsible for managing and delivering key projects within agreed schedules bud
 ERP Department HR Enterprise Resource Planning Management and implementation of different projects with other companies *Payroll, Time Attendance, Training and Development, Recruitment*
 Coach new clients on the new human resources software
 Mapping customer needs to design and adapt a new HR system
+
+**Kristies SARL** *Freelancer* Adma Lebanon
+**HR and Project Management** March 2018 December 2018
+Responsible and Execute all the HR duties within the company. 
+Responsible for managing and delivering key projects within agreed schedules, budgets and cost objectives
+*Clients: Byblos Municipality, JTI, Nestle.*
